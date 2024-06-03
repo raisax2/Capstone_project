@@ -8,35 +8,36 @@ Tools:
 
 **Web Scraping and Data Aggregation**
 
-BeautifulSoup: For parsing HTML and XML documents to extract information from Goodreads or MTL novel websites.
+- BeautifulSoup: For parsing HTML and XML documents to extract information from Goodreads or MTL novel websites.
 
-Scrapy: For more complex web scraping tasks and handling large volumes of data efficiently.
+- Scrapy: For more complex web scraping tasks and handling large volumes of data efficiently.
 
-Selenium: For scraping dynamic content that requires interaction, such as JavaScript-rendered pages.
+- Selenium: For scraping dynamic content that requires interaction, such as JavaScript-rendered pages.
 
 
 **Backend**
 
-python
+- python
 
-Django: Python web framework that encourages rapid development and clean, pragmatic design.
+- Django: Python web framework that encourages rapid development and clean, pragmatic design.
 
-Flask: A micro web framework for Python, useful for creating lightweight applications.
+- Flask: A micro web framework for Python, useful for creating lightweight applications.
 
 **Frontend**
-React
 
-Vue.js
+- React
 
-Angular
+- Vue.js
 
-Bootstrap
+- Angular
 
-Tailwind CSS 
+- Bootstrap
+
+- Tailwind CSS 
 
 **Database Management**
 
-Firebase: for real-time updates and user authentication.
+- Firebase: for real-time updates and user authentication.
 
 
 
