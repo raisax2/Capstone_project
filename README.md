@@ -44,5 +44,3 @@ Tools:
 **Other projects I would be interested in:**
 
 - Any game project preferably using C++, swift UI, JS game engine or python. (I'm fine with any other languages as well, I can learn qiickly if I don't know)
-
-- AI / ML related project (I have no experience in it but would like to learn during this project)
