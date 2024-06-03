@@ -39,8 +39,3 @@ Tools:
 
 - Firebase: for real-time updates and user authentication.
 
-
-
-**Other projects I would be interested in:**
-
-- Any game project preferably using C++, swift UI, JS game engine or python. (I'm fine with any other languages as well, I can learn qiickly if I don't know)
