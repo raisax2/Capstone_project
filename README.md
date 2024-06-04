@@ -1,6 +1,6 @@
-# Project I want to work on: 
+# About: 
 
-ABOUT: It's a social media/discussion app or website for novel readers. Especially for readers who are currently reading the book. Each book in the app would have a community on its own where depending on the length of the book (interms of chapters), there would be a discussion channel for every/everyfew chapters for readers to engage in conversations. Spoilars would be allowed till that chapter limit. Targeted audience is people who read english translated books from other countries.
+It's a social media/discussion app or website for novel readers. Especially for readers who are currently reading the book. Each book in the app would have a community on its own where depending on the length of the book (interms of chapters), there would be a discussion channel for every/everyfew chapters for readers to engage in conversations. Spoilars would be allowed till that chapter limit. Targeted audience is people who read english translated books from other countries.
 
 Tools:
 
